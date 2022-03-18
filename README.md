@@ -64,8 +64,32 @@ It is a Complete Roadmap for Backend Engineering
 * Optional
    * OSI
    * Network socket
-
-
+## Phase 5
+* DataBase
+   * Normalization
+   * MySQL
+   * MongoDB
+   * RabbitMQ
+* Design Patterns 02
+   * Behavioral
+* Architecture
+   * Microservices
+* Optional
+   * Graph Database
+   * Time Series Database
+   * Reactive Programming
+## Phase 6
+* Containers
+   * Docker
+* Cloud
+   * AWS Basics
+* Security
+   * Secure Code
+   * Secure APIs
+* Optional
+   * Virtualization
+   * chroot
+   * CGroups
 
 
 
