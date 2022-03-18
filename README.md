@@ -3,7 +3,7 @@ It is a Complete Roadmap for Backend Engineering
 
 ## Phase 1
 * Your First Programming Language
-   <input type = "checkbox">* Beginner level [syntax, statements]
+   - [ ] * Beginner level [syntax, statements]
    * working with files & directories
 * Code tools
    * Git & gitflow
