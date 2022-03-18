@@ -2,19 +2,19 @@
 It is a Complete Roadmap for Backend Engineering
 
 ## Phase 1
-- [ ] Your First Programming Language
-   - [ ] Beginner level [syntax, statements]
+- [x] Your First Programming Language
+   - [x] Beginner level [syntax, statements]
    - [ ] working with files & directories
 - [ ] Code tools
-   - [ ] Git & gitflow
+   - [x] Git & gitflow
    - [ ] Unit Test
    - [ ] Build for different operating systems
 - [ ] Linux
    - [ ] Basics
 - [ ] Optional
-   - [ ] Computer Hardware Architecture
-   - [ ] How Memory works
-   - [ ] How CPU works
+   - [x] Computer Hardware Architecture
+   - [x] How Memory works
+   - [x] How CPU works
    - [ ] Operating system Architecture
    - [ ] How Operating system manage processes
 ## Phase 2
@@ -24,7 +24,7 @@ It is a Complete Roadmap for Backend Engineering
    - [ ] Abstraction
    - [ ] Polymorphism
 - [ ] Data Structure 01
-   - [ ] Arrays
+   - [x] Arrays
    - [ ] Linked Lists
    - [ ] Stacks
    - [ ] Queues
