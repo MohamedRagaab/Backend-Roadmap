@@ -37,3 +37,53 @@ It is a Complete Roadmap for Backend Engineering
    * SOLID
    * KISS
    * DRY
+## Phase 3
+* Problem Solving
+   * Algorithms design
+   * Algorithms analysis
+   * Known Algorithms
+* Design Patterns 01
+   * Creational
+   * Structural
+* Optional
+   * Critical Thinking
+## Phase 4
+* Network
+   * Network basics
+   * HTTP(s) [advanced]
+   * TCP [basics]
+* Concurrency
+   * threads
+   * non blocking I/O
+* API
+   * HTTP RESTful
+   * HTTP intercepto
+   * Web Socket
+   * gRPC
+   * Nginx web server & API gateway
+* Optional
+   * OSI
+   * Network socket
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
